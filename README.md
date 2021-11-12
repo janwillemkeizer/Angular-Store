@@ -1,3 +1,2 @@
-# angular-4qe75q
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-4qe75q)
+# De (Angular) Telefoonwinkel
+## Het is altijd een goed idee om de Fundamentals goed te beheersen.
